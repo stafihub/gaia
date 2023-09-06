@@ -12,8 +12,7 @@ This release contains the following changes to Gaia:
 
 - Bumps Interchain-Security to v2.0.0.
 - Refactors the Global Fee module.
-- Removes all states of the Liquidity module with forced withdrawal for all pool 
-  coins as a preparation to remove the module.
+- Removes the Liquidity module
 
 ## ❤️ Contributors
 
