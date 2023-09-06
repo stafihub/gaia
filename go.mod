@@ -178,6 +178,7 @@ replace (
 
 	// Use special SDK release with support for both ICS and LSM
 	github.com/cosmos/cosmos-sdk => github.com/cosmos/cosmos-sdk v0.45.16-ics-lsm
+	github.com/cosmos/ibc-go/v4 => github.com/stafihub/ibc-go/v4 v4.4.2-stafihub
 
 	// Use special ICS release with support for LSM
 	github.com/cosmos/interchain-security/v2 => github.com/cosmos/interchain-security/v2 v2.0.0-lsm
